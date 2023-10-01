@@ -70,7 +70,7 @@
 > - Bagaimana peluang-peluang ini dengan langkah-langkah yang telah diimplementasikan dapat membantu para perencana kota dalam pemilihan lokasi yang lebih efektif dan mempromosikan upaya adaptasi iklim?
 
 ### Relashionship Theory 2
-> Hubungan antara teori yang ada pada penelitian ini dengan apa yang ingin saya kerjakan adalah bagaimana dalam suatu daerah dapat dipetakan baik itu struktur tanah, jalan, dan lain-lain untuk membuat keputusan baru (rute evakuasi) jika terjadi suatu bencana.  
+> Hubungan antara teori yang ada pada penelitian ini dengan apa yang ingin saya kerjakan adalah bagaimana dalam suatu daerah dapat dipetakan baik itu struktur tanah, jalan, dan lain-lain untuk membuat keputusan baru jika terjadi suatu bencana.  
 
 ## Third Research
 > Lorem Ipsum
