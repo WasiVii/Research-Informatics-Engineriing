@@ -47,13 +47,15 @@
 > Meningkatkan Pembelajaran Hibrida dengan Menggunakan Sistem Pengarsipan Peta Berbasis GIS Open Source
 
 ### Problem Identification 1
-> 
+> Penelitian ini berusaha untuk meningkatkan proses pembelajaran hybrid dengan membangun sistem pengarsipan peta berbasis open source GIS (GACU Geoportal) yang memfasilitasi pencarian, penelusuran, tampilan, ekspor metadata, dan pengunduhan data secara online dari arsip peta melalui beberapa pilihan query. Untuk mencapai tujuan ini, dilakukan integrasi terapan antara GIS dan teknologi pengarsipan berbasis open source. Hasil akhir dari integrasi ini adalah portal pengarsipan peta yang diusulkan dan telah divalidasi dengan menggunakan kuesioner mahasiswa. 
 
 ### Research Questions 1
-> 
+> - Bagaimana cara menghindari kelemahan dari peta kertas cetak yang dapat terjadi karena penggunaan, paparan air, penyimpanan yang buruk dan kondisi cuaca, dan fokus pada area kecil dalam satu panel serta menggunakan peta kertas ketika bepergian di jalan raya?
+> - Bagaimana cara mempermudah proses pembelajaran baik bagi staf maupun mahasiswa dan membuatnya lebih interaktif dan lebih aman  dengan menggunakan peta pada proses pembelajaran di Jurusan Geography and Geographic Information Systems (GIS), Universitas Kairo?
+> - Bagaimana cara implementasi peta digital dari berbagai repositori pada suatu sistem informasi untuk menunjang pembelajaran mahasiswa?
 
 ### Relashionship Theory 1
->
+> Hubungan antara teori yang ada pada penelitian ini dengan apa yang ingin saya kerjakan adalah bagaimana implementasi berbagai peta digital yang dapat digunakan untuk pemetakan data yang ada
 
 ## Second Research
 > Pemetaan peluang spasial untuk langkah-langkah adaptasi iklim perkotaan di ruang publik dan ruang privat menggunakan Model Pendukung Keputusan berbasis GIS
@@ -62,8 +64,8 @@
 > Belanda telah menetapkan tujuan perubahan iklim dan adaptasi yang ambisius, termasuk mengurangi jejak karbon sebesar 55% pada tahun 2030 dan memastikan pembangunan yang sesuai dengan iklim pada tahun 2050. Rencana Delta tentang Adaptasi Spasial, bagian dari Program Delta Belanda, memperkenalkan tujuan adaptasi nasional pada tahun 2018, yang mewajibkan pemerintah daerah untuk mengembangkan rencana adaptasi untuk risiko panas, banjir, dan kekeringan. Namun, penelitian tentang perencanaan adaptasi di kota-kota berukuran sedang seperti Groningen masih kurang.Groningen, kota terbesar keenam di Belanda, telah berfokus pada adaptasi iklim sebagai pendorong utama dalam pembangunan kota sejak tahun 2018. Pemerintah kota menawarkan subsidi untuk atap hijau, taman, dan fasad sejak tahun 2008 dan saat ini sedang mengembangkan platform berbasis web untuk memantau upaya adaptasi iklim. Tipologi lingkungan yang beragam di Groningen, mulai dari tahun 1900-an hingga saat ini, mencerminkan penggunaan lahan kota yang beragam dan fokus pada adaptasi iklim di ruang publik dan ruang pribadi. Studi ini akan menerapkan Desain-Struktur-Pengukuran (DSM) yang diusulkan untuk seluruh kota Groningen, dengan fokus pada area studi kasus dengan berbagai tipologi lingkungan dan langkah-langkah adaptasi yang ada.
 
 ### Research Questions 2
-> - Bagaimana cara untuk mengembangkan rencana adaptasi dalam menghadapi risiko panas, banjir dan kekeringan, dan dengan demikian mengalihkan tanggung jawab adaptasi dari pemerintah pusat ke pemerintah daerah.
-> - Bagaimana cara perencanaan adaptasi di kota-kota untuk menghadapi resiko sebelumnya di kota2 menengah? dimana yang sebelumnya hanya terfokus pada daerah2 yang perencanaan adaptasi di kota-kota besar di Belanda.
+> - Bagaimana cara untuk mengembangkan rencana adaptasi dalam menghadapi risiko panas, banjir dan kekeringan, dan dengan demikian mengalihkan tanggung jawab adaptasi dari pemerintah pusat ke pemerintah daerah?
+> - Bagaimana cara perencanaan adaptasi di kota-kota untuk menghadapi resiko sebelumnya di kota2 menengah? dimana yang sebelumnya hanya terfokus pada daerah2 yang perencanaan adaptasi di kota-kota besar di Belanda?
 > - Berapa nilai peluang untuk mengimplementasikan langkah-langkah adaptasi di kota menengah baik di ruang publik maupun ruang privat?
 > - Bagaimana peluang-peluang ini dengan langkah-langkah yang telah diimplementasikan dapat membantu para perencana kota dalam pemilihan lokasi yang lebih efektif dan mempromosikan upaya adaptasi iklim?
 
