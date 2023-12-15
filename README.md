@@ -116,6 +116,22 @@ https://api.bmkg.go.id/api/autogempa
 # Coding
 
 # Analysis
+Sistem WebGIS Rute Evakuasi Bencana Berbasis Laravel yang dibangun dalam penelitian ini memiliki beberapa kelebihan dan kekurangan. Berikut adalah analisis sistem tersebut:
+## Kelebihan
+<ul>
+  <li>Sistem ini menggunakan metode waterfall yang merupakan metode pengembangan sistem yang berurutan dan terstruktur.</li>
+  <li>Sistem ini menggunakan algoritma Dijkstra yang merupakan algoritma pencarian jalur terpendek dalam graf.</li>
+  <li>Sistem ini dibangun menggunakan bahasa pemrograman Laravel yang merupakan framework Laravel yang populer dan mudah digunakan.</li>
+  <li>Sistem ini memiliki antarmuka pengguna yang user-friendly dan mudah digunakan.</li>
+  <li>Sistem ini dapat diakses melalui perangkat desktop, laptop, dan mobile.</li>
+</ul>
+
+## Kekurangan
+<ul>
+  <li>Sistem ini masih belum dapat memberikan informasi tentang kondisi lalu lintas terkini.</li>
+  <li>Sistem ini masih belum dapat memberikan informasi tentang tempat-tempat penampungan sementara yang tersedia.</li>
+  <li>Sistem ini masih belum dapat memberikan informasi tentang kondisi evakuasi secara real-time</li>
+</ul>
 
 # Supporting Images
 
