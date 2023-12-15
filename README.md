@@ -29,15 +29,22 @@
   - [Problem Identification 3](#problem-identification-3)
   - [Research Questions 3](#research-questions-3)
   - [Relashionship Theory 3](#relashionship-theory-3)
-- [Docomentation](#docomentation)
-- [Publications](#publications)
+- [Metodology](#metodology)
+- [Reference](#reference)
+- [Dataset](#dataset)
+- [Coding](#coding)
+- [Analysis](#analysis)
+- [Supporting Images](#supporting-images)
+- [PDF that can be displayed](#pdf-that-can-be-displayed)
+- [Video](#video)
+- [Draft Paper](#draft-paper)
 - [Thanks](#thanks)
 
 </details>
 
 ---
 
-## Topics
+# Topics
 
 > - Enhancing Hybrid Learning using Open Source GIS-Based Maps Archiving System
 > - Mapping spatial opportunities for urban climate adaptation measures in public and private spaces using a GIS-based Decision Support Model
@@ -79,10 +86,28 @@
 ### Research Questions 3
 ### Relashionship Theory 3
 
-## Documentation
-## Publications
+# Metodology
+> ini metodologi
+
+# Reference
 - Bedair S, Sayed S A and AlMetwaly W M 2022 Enhancing Hybrid Learning using Open Source GIS-Based Maps Archiving System The Egyptian Journal of Remote Sensing and Space Science 25 779-793 DOI: https://doi.org/10.1016/j.ejrs.2022.07.003
 - Roest, A.H.; Weitkamp, G.; van den Brink, M.; Boogaard, F. Mapping Spatial Opportunities for Urban Climate Adaptation Measures in Public and Private Spaces Using a GIS-Based Decision Support Model. Sustain. Cities Soc. 2023, 96, 104651. DOI: https://doi.org/10.1016/j.scs.2023.104651
+
+# Dataset
+
+# Coding
+
+# Analysis
+
+# Supporting Images
+
+# PDF that can be displayed
+
+# Video 
+> Video (Problem Solving, etc)
+
+
+# Draft Paper
 
 ## Thanks
 &nbsp; Thanks 🙏
