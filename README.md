@@ -17,18 +17,6 @@
 <summary>Table of Contents</summary>
 
 - [Topics](#topics)
-- [First Research](#first-research)
-  - [Problem Identification 1](#problem-identification-1)
-  - [Research Questions 1](#research-questions-1)
-  - [Relashionship Theory 1](#relashionship-theory-1)
-- [Second Research](#second-research)
-  - [Problem Identification 2](#problem-identification-2)
-  - [Research Questions 2](#research-questions-2)
-  - [Relashionship Theory 2](#relashionship-theory-2)
-- [Third Research](#third-research)
-  - [Problem Identification 3](#problem-identification-3)
-  - [Research Questions 3](#research-questions-3)
-  - [Relashionship Theory 3](#relashionship-theory-3)
 - [Metodology](#metodology)
 - [Reference](#reference)
 - [Dataset](#dataset)
@@ -87,7 +75,23 @@
 ### Relashionship Theory 3
 
 # Metodology
-> ini metodologi
+> Metodologi yang digunakan dalam perancangan sistem rute evakuasi bencana adalah Waterfall dan Algoritma Dijkstra. Dimana Waterfall digunakan dalam pengembangan sistem dan Algoritma Dijkstra digunakan untuk pencarian rute evakuasi terdekat.
+
+##  Waterfall
+Aktifitas-aktifitas dalam metodologi waterfall adalah :
+<ol>
+  <li>Analisys</li>
+  Merupakan tahap menganalisis hal-hal yang diperlukan dalam pelaksanaan pembangunan sistem penilaian kompetensi.
+  <li>Design</li>
+  Tahap penerjemahan dari data yang di analisis kedalam bentuk yang mudah dan dimengerti dan diinginkan oleh user. Desain dalam bentuk usecase, activity diagram, desain basis data, dan desain antarmuka sistem.
+  <li>Coding</li>
+  Tahap penerjemahan dari data atau pemecahan masalah yang telah didesain kedalam Bahasa pemrograman. Yaitu proses pembangunan sistem rute evakuasi bencana yang akan dibangun dalam bentuk web.
+  <li>Testing</li>
+  Merupakan tahap pengujian perangkat lunak yang akan dibangun.
+</ol>
+
+## Algoritma Dijkstra
+Algoritme Dijkstra adalah sebuah algoritma yang dipakai dalam memecahkan permasalahan jarak terpendek (shortest path problem) untuk sebuah graf berarah (directed graph). Algoritma Dijkstra bekerja dengan membuat jalur ke satu simpul optimal pada setiap langkah. Jadi pada langkah ke n, setidaknya ada n node yang sudah kita tahu jalur terpendek. 
 
 # Reference
 - Bedair S, Sayed S A and AlMetwaly W M 2022 Enhancing Hybrid Learning using Open Source GIS-Based Maps Archiving System The Egyptian Journal of Remote Sensing and Space Science 25 779-793 DOI: https://doi.org/10.1016/j.ejrs.2022.07.003
