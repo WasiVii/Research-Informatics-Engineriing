@@ -99,6 +99,20 @@ Algoritme Dijkstra adalah sebuah algoritma yang dipakai dalam memecahkan permasa
 
 # Dataset
 
+## API
+API Navigation
+```bash
+https://api.mapbox.com/directions/v5/{profile}/{coordinates}
+```
+API Dataset
+```bash
+https://api.mapbox.com/datasets/v1/{username}
+```
+API Bencana
+```bash
+https://api.bmkg.go.id/api/autogempa
+```
+
 # Coding
 
 # Analysis
