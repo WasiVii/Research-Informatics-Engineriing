@@ -126,6 +126,6 @@ https://api.bmkg.go.id/api/autogempa
 
 
 # Draft Paper
-
+> [Google Docs](https://docs.google.com/document/d/1VL6eiv8c7DnPll-xMvSWnZj2mjnX1oLiJxALqHEV5s0/view?usp=sharing)
 ## Thanks
 &nbsp; Thanks 🙏
